@@ -2,10 +2,17 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "subject": "첫 번째 게시물",
+      "content": "첫 번째 게시물의 내용",
+      "address": "서울",
+      "userId": "임시 ID 1"
+    },
+    {
+      "id": 2,
+      "subject": "두 번째 게시물",
+      "content": "두 번째 게시물의 내용",
+      "address": "인천",
+      "userId": "임시 ID 2"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
